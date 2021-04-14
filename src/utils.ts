@@ -30,6 +30,7 @@ export async function jsonRequest(
     json: true,
     timeout: 5000, // fail fast
     ...options,
+    headers: {"User-Agent": 'Mozilla'}
   }
   const queryString = params ? qs.stringify(params, { addQueryPrefix: true }) : ''
   const uri = `${origin}${path}${queryString}`
