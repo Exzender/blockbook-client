@@ -9,11 +9,11 @@
   "esnext": "dist/lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:go-faast/blockbook-client.git"
+    "url": "git@github.com:Exzender/blockbook-client.git"
   },
-  "homepage": "https://github.com/go-faast/blockbook-client#readme",
+  "homepage": "https://github.com/Exzender/blockbook-client#readme",
   "bugs": {
-    "url": "https://github.com/go-faast/blockbook-client/issues"
+    "url": "https://github.com/Exzender/blockbook-client/issues"
   },
   "keywords": [
     "bitcoin",
